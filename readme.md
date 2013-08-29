@@ -9,5 +9,6 @@ BlackJack GUI
 - This is an improved version that includes a GUI interface
 
 Incomplete:
+
 BlackJackClientServer
 - This is an incomplete version to include client and server interaction
